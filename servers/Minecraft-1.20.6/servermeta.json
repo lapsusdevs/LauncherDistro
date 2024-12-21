@@ -2,8 +2,8 @@
   "$schema": "file:///D:/LapsusDistro/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "Minecraft (Minecraft 1.19.4)",
-    "description": "Minecraft Running Minecraft 1.19.4",
+    "name": "Minecraft (Minecraft 1.20.6)",
+    "description": "Minecraft Running Minecraft 1.20.6",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "localhost:25565",
     "discord": {

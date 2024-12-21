@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "forge": {
-      "name": "forge",
-      "type": "custom",
-      "lastVersionId": "1.13.2-forge-25.0.223"
-    }
-  }
-}

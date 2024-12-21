@@ -1,9 +1,9 @@
 {
-  "$schema": "file:///C:/Eggs/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///D:/LapsusDistro/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "Minecraft (Minecraft 1.14.4)",
-    "description": "Minecraft Running Minecraft 1.14.4 (Forge v28.2.26)",
+    "description": "Minecraft Running Minecraft 1.14.4",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "localhost:25565",
     "discord": {
@@ -13,9 +13,6 @@
     },
     "mainServer": false,
     "autoconnect": false
-  },
-  "forge": {
-    "version": "28.2.26"
   },
   "untrackedFiles": []
 }

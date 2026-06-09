@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///C:/Eggs/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///D:/LapsusDistro/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "Minecraft (Minecraft 1.13.2)",

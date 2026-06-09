@@ -1,12 +1,12 @@
-JVM info: Eclipse Adoptium - 17.0.8.1 - 17.0.8.1+1
+JVM info: Eclipse Adoptium - 21.0.5 - 21.0.5+11-LTS
 java.net.preferIPv4Stack=true
-Current Time: 07/03/2024 22:26:07
-Host: files.minecraftforge.net [51.79.83.165]
-Host: maven.minecraftforge.net [51.79.83.165]
-Host: libraries.minecraft.net [13.107.213.43, 13.107.246.43]
-Host: launchermeta.mojang.com [13.107.246.43, 13.107.213.43]
-Host: piston-meta.mojang.com [13.107.246.43, 13.107.213.43]
-Host: sessionserver.mojang.com [13.107.246.43, 13.107.213.43]
+Current Time: 09/06/2026 16:50:02
+Host: files.minecraftforge.net [104.21.58.163, 172.67.161.211]
+Host: maven.minecraftforge.net [172.67.161.211, 104.21.58.163]
+Host: libraries.minecraft.net [13.107.226.43, 13.107.253.43]
+Host: launchermeta.mojang.com [13.107.226.43, 13.107.253.43]
+Host: piston-meta.mojang.com [13.107.226.43, 13.107.253.43]
+Host: sessionserver.mojang.com [13.107.253.43, 13.107.226.43]
 Host: authserver.mojang.com [Unknown]
 Extracting json
 Considering minecraft client jar
@@ -154,45 +154,45 @@ Considering library org.ow2.asm:asm:6.1.1
 Considering library trove:trove:1.0.2
   Downloading library from https://maven.minecraftforge.net/trove/trove/1.0.2/trove-1.0.2.jar
     Download completed: Checksum validated.
-Created Temporary Directory: C:\Users\PCGAME\AppData\Local\Temp\forge_installer17292749033181285669
+Created Temporary Directory: C:\Users\PC-GAME\AppData\Local\Temp\forge_installer13507178316815216590
   Extracting: /data/client.lzma
 Building Processors
 ===============================================================================
   MainClass: net.minecraftforge.installertools.ConsoleTool
   Classpath:
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraftforge\installertools\1.1.4\installertools-1.1.4.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\md-5\SpecialSource\1.8.5\SpecialSource-1.8.5.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\org\ow2\asm\asm-commons\6.1.1\asm-commons-6.1.1.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\com\google\guava\guava\20.0\guava-20.0.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\sf\opencsv\opencsv\2.3\opencsv-2.3.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\org\ow2\asm\asm-analysis\6.1.1\asm-analysis-6.1.1.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\org\ow2\asm\asm-tree\6.1.1\asm-tree-6.1.1.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\org\ow2\asm\asm\6.1.1\asm-6.1.1.jar
-  Args: --task, MCP_DATA, --input, C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\de\oceanlabs\mcp\mcp_config\1.14.4-20190829.143755\mcp_config-1.14.4-20190829.143755.zip, --output, C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\de\oceanlabs\mcp\mcp_config\1.14.4-20190829.143755\mcp_config-1.14.4-20190829.143755-mappings.txt, --key, mappings
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraftforge\installertools\1.1.4\installertools-1.1.4.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\md-5\SpecialSource\1.8.5\SpecialSource-1.8.5.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\org\ow2\asm\asm-commons\6.1.1\asm-commons-6.1.1.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\com\google\guava\guava\20.0\guava-20.0.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\sf\opencsv\opencsv\2.3\opencsv-2.3.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\org\ow2\asm\asm-analysis\6.1.1\asm-analysis-6.1.1.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\org\ow2\asm\asm-tree\6.1.1\asm-tree-6.1.1.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\org\ow2\asm\asm\6.1.1\asm-6.1.1.jar
+  Args: --task, MCP_DATA, --input, D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\de\oceanlabs\mcp\mcp_config\1.14.4-20190829.143755\mcp_config-1.14.4-20190829.143755.zip, --output, D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\de\oceanlabs\mcp\mcp_config\1.14.4-20190829.143755\mcp_config-1.14.4-20190829.143755-mappings.txt, --key, mappings
 Task: MCP_DATA
-Input:  C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\de\oceanlabs\mcp\mcp_config\1.14.4-20190829.143755\mcp_config-1.14.4-20190829.143755.zip
-Output: C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\de\oceanlabs\mcp\mcp_config\1.14.4-20190829.143755\mcp_config-1.14.4-20190829.143755-mappings.txt
+Input:  D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\de\oceanlabs\mcp\mcp_config\1.14.4-20190829.143755\mcp_config-1.14.4-20190829.143755.zip
+Output: D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\de\oceanlabs\mcp\mcp_config\1.14.4-20190829.143755\mcp_config-1.14.4-20190829.143755-mappings.txt
 Key:    mappings
 Extracting: config/joined.tsrg
 ===============================================================================
   Cache: 
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4\client-1.14.4-slim-stable.jar Missing
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4\client-1.14.4-extra-stable.jar Missing
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4\client-1.14.4-slim-stable.jar Missing
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4\client-1.14.4-extra-stable.jar Missing
   MainClass: net.minecraftforge.jarsplitter.ConsoleTool
   Classpath:
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraftforge\jarsplitter\1.1.2\jarsplitter-1.1.2.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar
-  Args: --input, C:\Eggs\cache\forge\1.14.4-28.2.26\versions\1.14.4\1.14.4.jar, --slim, C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4\client-1.14.4-slim-stable.jar, --extra, C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4\client-1.14.4-extra-stable.jar, --srg, C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\de\oceanlabs\mcp\mcp_config\1.14.4-20190829.143755\mcp_config-1.14.4-20190829.143755-mappings.txt
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraftforge\jarsplitter\1.1.2\jarsplitter-1.1.2.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar
+  Args: --input, D:\LapsusDistro\cache\forge\1.14.4-28.2.26\versions\1.14.4\1.14.4.jar, --slim, D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4\client-1.14.4-slim-stable.jar, --extra, D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4\client-1.14.4-extra-stable.jar, --srg, D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\de\oceanlabs\mcp\mcp_config\1.14.4-20190829.143755\mcp_config-1.14.4-20190829.143755-mappings.txt
 Splitter: 
-  Input:    C:\Eggs\cache\forge\1.14.4-28.2.26\versions\1.14.4\1.14.4.jar
-  Input:    C:\Eggs\cache\forge\1.14.4-28.2.26\versions\1.14.4\1.14.4.jar
-  Slim:     C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4\client-1.14.4-slim-stable.jar
+  Input:    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\versions\1.14.4\1.14.4.jar
+  Input:    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\versions\1.14.4\1.14.4.jar
+  Slim:     D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4\client-1.14.4-slim-stable.jar
   Data:     null
-  Extra:    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4\client-1.14.4-extra-stable.jar
+  Extra:    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4\client-1.14.4-extra-stable.jar
   Including data in extra
-  SRG:   C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\de\oceanlabs\mcp\mcp_config\1.14.4-20190829.143755\mcp_config-1.14.4-20190829.143755-mappings.txt
+  SRG:   D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\de\oceanlabs\mcp\mcp_config\1.14.4-20190829.143755\mcp_config-1.14.4-20190829.143755-mappings.txt
   InputSha: 8c325a0c5bd674dd747d6ebaa4c791fd363ad8a9
   SrgSha:   e5e84c8167a9deac3815da8706009d66bf0b58de
 Splitting: 
@@ -13279,20 +13279,20 @@ Splitting:
   Slim  ctl.class
   Data  pack.mcmeta
   Data  version.json
-  Output: C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4\client-1.14.4-slim-stable.jar Checksum Validated: 28bb55ada6715bb866409635e9d21e3813c2eddc
-  Output: C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4\client-1.14.4-extra-stable.jar Checksum Validated: 3f12711925698a9c5c057dd1183bd5fe7cd7ffc9
+  Output: D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4\client-1.14.4-slim-stable.jar Checksum Validated: 28bb55ada6715bb866409635e9d21e3813c2eddc
+  Output: D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4\client-1.14.4-extra-stable.jar Checksum Validated: 3f12711925698a9c5c057dd1183bd5fe7cd7ffc9
 ===============================================================================
   MainClass: net.md_5.specialsource.SpecialSource
   Classpath:
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\md-5\SpecialSource\1.8.5\SpecialSource-1.8.5.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\org\ow2\asm\asm-commons\6.1.1\asm-commons-6.1.1.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\sf\jopt-simple\jopt-simple\4.9\jopt-simple-4.9.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\com\google\guava\guava\20.0\guava-20.0.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\sf\opencsv\opencsv\2.3\opencsv-2.3.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\org\ow2\asm\asm-analysis\6.1.1\asm-analysis-6.1.1.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\org\ow2\asm\asm-tree\6.1.1\asm-tree-6.1.1.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\org\ow2\asm\asm\6.1.1\asm-6.1.1.jar
-  Args: --in-jar, C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4\client-1.14.4-slim-stable.jar, --out-jar, C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4-20190829.143755\client-1.14.4-20190829.143755-srg.jar, --srg-in, C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\de\oceanlabs\mcp\mcp_config\1.14.4-20190829.143755\mcp_config-1.14.4-20190829.143755-mappings.txt
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\md-5\SpecialSource\1.8.5\SpecialSource-1.8.5.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\org\ow2\asm\asm-commons\6.1.1\asm-commons-6.1.1.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\sf\jopt-simple\jopt-simple\4.9\jopt-simple-4.9.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\com\google\guava\guava\20.0\guava-20.0.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\sf\opencsv\opencsv\2.3\opencsv-2.3.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\org\ow2\asm\asm-analysis\6.1.1\asm-analysis-6.1.1.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\org\ow2\asm\asm-tree\6.1.1\asm-tree-6.1.1.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\org\ow2\asm\asm\6.1.1\asm-6.1.1.jar
+  Args: --in-jar, D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4\client-1.14.4-slim-stable.jar, --out-jar, D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4-20190829.143755\client-1.14.4-20190829.143755-srg.jar, --srg-in, D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\de\oceanlabs\mcp\mcp_config\1.14.4-20190829.143755\mcp_config-1.14.4-20190829.143755-mappings.txt
 Loading mappings
 Loading mappings...  0%
 Loading mappings... 10%
@@ -13315,29 +13315,29 @@ Remapping jar... 90%
 Remapping jar... 100%
 ===============================================================================
   Cache: 
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraftforge\forge\1.14.4-28.2.26\forge-1.14.4-28.2.26-client.jar Missing
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraftforge\forge\1.14.4-28.2.26\forge-1.14.4-28.2.26-client.jar Missing
   MainClass: net.minecraftforge.binarypatcher.ConsoleTool
   Classpath:
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraftforge\binarypatcher\1.0.12\binarypatcher-1.0.12.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\com\google\guava\guava\25.1-jre\guava-25.1-jre.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\com\github\jponge\lzma-java\1.3\lzma-java-1.3.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\com\nothome\javaxdelta\2.0.1\javaxdelta-2.0.1.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\org\checkerframework\checker-qual\2.0.0\checker-qual-2.0.0.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar
-    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\trove\trove\1.0.2\trove-1.0.2.jar
-  Args: --clean, C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4-20190829.143755\client-1.14.4-20190829.143755-srg.jar, --output, C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraftforge\forge\1.14.4-28.2.26\forge-1.14.4-28.2.26-client.jar, --apply, C:\Users\PCGAME\AppData\Local\Temp\forge_installer17292749033181285669\data\client.lzma
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraftforge\binarypatcher\1.0.12\binarypatcher-1.0.12.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\com\google\guava\guava\25.1-jre\guava-25.1-jre.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\com\github\jponge\lzma-java\1.3\lzma-java-1.3.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\com\nothome\javaxdelta\2.0.1\javaxdelta-2.0.1.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\org\checkerframework\checker-qual\2.0.0\checker-qual-2.0.0.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar
+    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\trove\trove\1.0.2\trove-1.0.2.jar
+  Args: --clean, D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4-20190829.143755\client-1.14.4-20190829.143755-srg.jar, --output, D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraftforge\forge\1.14.4-28.2.26\forge-1.14.4-28.2.26-client.jar, --apply, C:\Users\PC-GAME\AppData\Local\Temp\forge_installer13507178316815216590\data\client.lzma
 Applying: 
-  Clean:     C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4-20190829.143755\client-1.14.4-20190829.143755-srg.jar
-  Output:    C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraftforge\forge\1.14.4-28.2.26\forge-1.14.4-28.2.26-client.jar
+  Clean:     D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4-20190829.143755\client-1.14.4-20190829.143755-srg.jar
+  Output:    D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraftforge\forge\1.14.4-28.2.26\forge-1.14.4-28.2.26-client.jar
   KeepData:  false
   Unpatched: false
-  Patches:   C:\Users\PCGAME\AppData\Local\Temp\forge_installer17292749033181285669\data\client.lzma
-Loading patches file: C:\Users\PCGAME\AppData\Local\Temp\forge_installer17292749033181285669\data\client.lzma
+  Patches:   C:\Users\PC-GAME\AppData\Local\Temp\forge_installer13507178316815216590\data\client.lzma
+Loading patches file: C:\Users\PC-GAME\AppData\Local\Temp\forge_installer13507178316815216590\data\client.lzma
   Reading patch com.mojang.blaze3d.platform.GLX$1.binpatch
     Checksum: 68509ec7 Exists: true
   Reading patch com.mojang.blaze3d.platform.GLX$FboMode.binpatch
@@ -15424,7 +15424,7 @@ Loading patches file: C:\Users\PCGAME\AppData\Local\Temp\forge_installer17292749
     Checksum: 87450659 Exists: true
   Reading patch net.minecraft.world.storage.loot.functions.Smelt.binpatch
     Checksum: e638c82 Exists: true
-Processing: C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4-20190829.143755\client-1.14.4-20190829.143755-srg.jar
+Processing: D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.14.4-20190829.143755\client-1.14.4-20190829.143755-srg.jar
   Patching net/minecraft/client/GameSettings$1 1/1
   Patching net/minecraft/client/Minecraft 1/1
   Patching net/minecraft/client/multiplayer/ClientChunkProvider$1 1/1
@@ -16468,6 +16468,6 @@ Processing: C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraft\client\1.
   Patching net/minecraft/util/math/shapes/EntitySelectionContext 1/1
   Patching net/minecraft/world/biome/Biome$FlowerEntry 1/1
   Patching net/minecraft/tags/Tag$1 1/1
-  Output: C:\Eggs\cache\forge\1.14.4-28.2.26\libraries\net\minecraftforge\forge\1.14.4-28.2.26\forge-1.14.4-28.2.26-client.jar Checksum Validated: 398bc1a2ab863fb7bab24a4da8f9e0123977efdd
+  Output: D:\LapsusDistro\cache\forge\1.14.4-28.2.26\libraries\net\minecraftforge\forge\1.14.4-28.2.26\forge-1.14.4-28.2.26-client.jar Checksum Validated: 398bc1a2ab863fb7bab24a4da8f9e0123977efdd
 Injecting profile
 Finished!
